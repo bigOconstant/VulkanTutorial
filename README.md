@@ -1,3 +1,3 @@
-# starting point for vu lkan tutorial  
+# Starting Point for Vulkan Tutorial  
 
 https://vulkan-tutorial.com/Development_environment
